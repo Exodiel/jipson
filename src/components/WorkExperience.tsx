@@ -7,9 +7,13 @@ const experience = [
     title: 'Thoughtworks | Consultant Developer.',
     date: 'Mar 2024 - Present',
     description: [
-      'Developed front-end user interface using React, Typescript, JavaScript, HTML and CSS for Web applications.',
+      'Developed front-end user interface using Angular, React, Typescript, JavaScript, HTML and CSS for Web applications.',
+      'Developed backend and frontend solutions focused on domain modeling using requirements engineering techniques to understand business communication and its subsequent implementation for user convenience.',
+      'Used PostgreSQL for data storage and also to perform analysis to find opportunities for improvement in software solutions.',
       'Collaborated with other developers to implement new features in a way that is consistent with existing codebase conventions.',
       'Developed software by following the Agile Methodology (Lean & Xtreme Programming).',
+      'Focused on delivering value and collaborating with the business to implement solutions that make an impact.',
+      'Enthusiast and promoter of AI tools for team agility.'
     ],
     image: { url: '/work/tw.png', height: 96, width: 96, className: 'rounded-none' },
   },

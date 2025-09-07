@@ -23,6 +23,10 @@ const skillsLogos = {
       image: '/logos/ts-logo.png',
     },
     {
+      name: 'Python',
+      image: '/logos/python-logo.png',
+    },
+    {
       name: 'Dart',
       image: '/logos/dart.png',
     },
@@ -53,6 +57,10 @@ const skillsLogos = {
     {
       name: 'CSS3',
       image: '/logos/css-logo.png',
+    },
+    {
+      name: 'Angular',
+      image: '/logos/angular-logo.png',
     },
     {
       name: 'ReactJS',
@@ -100,6 +108,10 @@ const skillsLogos = {
       image: '/logos/nestjs-logo.png',
     },
     {
+      name: 'Flask',
+      image: '/logos/flask-logo.png',
+    },
+    {
       name: 'MongoDB',
       image: '/logos/mongodb-logo.webp',
     },
@@ -132,12 +144,12 @@ const skillsLogos = {
       image: '/logos/s3-logo.png',
     },
     {
-      name: '',
-      image: '',
+      name: 'awsEC2',
+      image: '/logos/ec2-logo.png',
     },
     {
-      name: '',
-      image: '',
+      name: 'awsLambda',
+      image: '/logos/lambda-logo.png',
     },
     {
       name: '',
@@ -206,10 +218,10 @@ const skillsLogos = {
       name: 'Modyo',
       image: '/logos/modyo.png'
     },
-    { name: '', image: '' },
-    { name: '', image: '' },
-    { name: '', image: '' },
-    { name: '', image: '' },
+    { name: 'Cursor', image: '/logos/cursor.png' },
+    { name: 'Claude Code', image: '/logos/claude-logo.png' },
+    { name: 'Gemini', image: '/logos/gemini-logo.png' },
+    { name: 'ChatGPT', image: '/logos/chatgpt.png' },
     { name: '', image: '' },
   ],
 };
